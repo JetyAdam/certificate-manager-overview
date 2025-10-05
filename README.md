@@ -8,11 +8,11 @@ This enterprise-grade system was designed to automate the management and monitor
 
 ## Key Features
 
-* ** Automated Expiration Notifications:** A multi-tiered notification system sends warning, urgent, and critical alerts via email as certificates approach expiration.
-* ** Multiple Input Methods:** Supports adding certificates via hostname discovery, file upload, or raw Base64 text, accommodating various workflows.
-* ** Advanced Filtering & Tagging:** A robust UI allows users to filter certificates by expiration date, hostname, and other metadata. A flexible tagging system provides powerful organizational capabilities.
-* ** Comprehensive Audit Trail:** Every action (create, update, delete) is logged with user and timestamp details, providing a full audit trail for compliance and troubleshooting.
-* ** Background Job Processing:** A reliable, database-backed job queue handles all background tasks, including daily certificate validation checks and scheduled email notifications.
+* **Automated Expiration Notifications:** A multi-tiered notification system sends warning, urgent, and critical alerts via email as certificates approach expiration.
+* **Multiple Input Methods:** Supports adding certificates via hostname discovery, file upload, or raw Base64 text, accommodating various workflows.
+* **Advanced Filtering & Tagging:** A robust UI allows users to filter certificates by expiration date, hostname, and other metadata. A flexible tagging system provides powerful organizational capabilities.
+* **Comprehensive Audit Trail:** Every action (create, update, delete) is logged with user and timestamp details, providing a full audit trail for compliance and troubleshooting.
+* **Background Job Processing:** A reliable, database-backed job queue handles all background tasks, including daily certificate validation checks and scheduled email notifications.
 
 ## Tech Stack
 
